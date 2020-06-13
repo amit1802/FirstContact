@@ -1,0 +1,7 @@
+Error logs of My cool Application.
+
+Error1
+Error2
+Error3
+Error4
+Error5
